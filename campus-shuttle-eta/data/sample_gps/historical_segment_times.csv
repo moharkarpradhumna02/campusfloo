@@ -1,0 +1,9 @@
+segment_id,from_stop,to_stop,distance_meters,median_time_sec,p85_time_sec
+seg_0_MG_AB,Main Gate,Admin Block,282,49,61
+seg_1_AB_CL,Admin Block,Central Library,282,49,61
+seg_2_CL_HQ,Central Library,Hostel Quadrangle,347,60,75
+seg_3_HQ_IH,Hostel Quadrangle,Innovation Hub & Labs,351,61,76
+seg_4_IH_SC,Innovation Hub & Labs,Sports Complex,399,69,86
+seg_5_SC_FC,Sports Complex,Student Activity & Food Court,337,58,72
+seg_6_FC_MC,Student Activity & Food Court,Medical Center,365,63,79
+seg_7_MC_MG,Medical Center,Main Gate,482,83,104

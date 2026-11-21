@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "name": "Main Gate",
+        "code": "MG",
+        "emoji": "\ud83d\udeaa",
+        "dwell_time_sec": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7022,
+          31.2503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Admin Block",
+        "code": "AB",
+        "emoji": "\ud83c\udfdb\ufe0f",
+        "dwell_time_sec": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7017,
+          31.2528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Central Library",
+        "code": "CL",
+        "emoji": "\ud83d\udcda",
+        "dwell_time_sec": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7022,
+          31.2553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Hostel Quadrangle",
+        "code": "HQ",
+        "emoji": "\ud83d\udecf\ufe0f",
+        "dwell_time_sec": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7032,
+          31.2583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Innovation Hub & Labs",
+        "code": "IH",
+        "emoji": "\ud83d\udca1",
+        "dwell_time_sec": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7067,
+          31.2593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Sports Complex",
+        "code": "SC",
+        "emoji": "\ud83c\udfdf\ufe0f",
+        "dwell_time_sec": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7097,
+          31.2568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Student Activity & Food Court",
+        "code": "FC",
+        "emoji": "\ud83c\udf5c",
+        "dwell_time_sec": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7092,
+          31.2538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Medical Center",
+        "code": "MC",
+        "emoji": "\ud83c\udfe5",
+        "dwell_time_sec": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7072,
+          31.251
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - MAX_GPS_ACCURACY_M=65.0
+      - MAX_SPEED_KMH=80.0
+      - DROPOUT_TOLERANCE_SEC=120.0
+    volumes:
+      - ./backend:/app
+      - ./data:/data
+    restart: unless-stopped
+
+  frontend:
+    image: nginx:alpine
+    ports:
+      - "3000:80"
+    volumes:
+      - ./frontend:/usr/share/nginx/html
+    restart: unless-stopped

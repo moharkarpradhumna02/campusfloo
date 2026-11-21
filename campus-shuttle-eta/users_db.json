@@ -1,0 +1,15 @@
+[
+  {
+    "id": "USR-F92DFC5A",
+    "name": "Pradhumna Moharkar",
+    "email": "moharkarpradhumna@gmail.com",
+    "student_id": "12691226",
+    "password_hash": "600fb8c239357c6ea36d62b00961b1b8babda93e34e4bbae8df5d59032b72521",
+    "password_salt": "1ced62a7e5fbcc34f135690f804ee899",
+    "commute_mode": "bus",
+    "wallet_balance": 240.0,
+    "created_at": "2026-11-21T02:25:15.269663",
+    "total_rides": 0,
+    "payment_history": []
+  }
+]
